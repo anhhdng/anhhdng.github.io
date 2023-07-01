@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anhhdng.github.io/static/css/main.55eeaa4c.css",
+    "main.js": "/anhhdng.github.io/static/js/main.c5f264c2.js",
+    "static/js/415.4d6acbeb.chunk.js": "/anhhdng.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/anhhdng.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/kiki-flying.gif": "/anhhdng.github.io/static/media/kiki-flying.d631805e89f162594b85.gif",
+    "static/media/kiki.gif": "/anhhdng.github.io/static/media/kiki.6b1de6ff1b3109806dee.gif",
+    "static/media/Anh Duong Resume May 2023.pdf": "/anhhdng.github.io/static/media/Anh Duong Resume May 2023.582988b44ed2562ae243.pdf",
+    "static/media/logo.png": "/anhhdng.github.io/static/media/logo.6967cfc8045a54913d4a.png",
+    "static/media/pre.svg": "/anhhdng.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/anhhdng.github.io/index.html",
+    "main.55eeaa4c.css.map": "/anhhdng.github.io/static/css/main.55eeaa4c.css.map",
+    "main.c5f264c2.js.map": "/anhhdng.github.io/static/js/main.c5f264c2.js.map",
+    "415.4d6acbeb.chunk.js.map": "/anhhdng.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/anhhdng.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55eeaa4c.css",
+    "static/js/main.c5f264c2.js"
+  ]
+}
